@@ -26,12 +26,5 @@
     "title": "AI Agents in games",
     "section": "3. Goal Oriented Action Planning (GOAP)",
     "text": "3. Goal Oriented Action Planning (GOAP)\nGOAP uses a series of dictionaries, looking at a world state to make the best decision available from the game world."
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site"
   }
 ]
