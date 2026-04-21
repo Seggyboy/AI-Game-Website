@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "AI Agents in games",
+    "section": "",
+    "text": "Welcome to a website about AI in video games. This website details the data structures, physics, algorithms, and techniques associated with AI in various games through history.\nUnderstanding the basics of game AI is crucial to making good games."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "index.html#finite-state-machines-fsms",
+    "href": "index.html#finite-state-machines-fsms",
+    "title": "AI Agents in games",
+    "section": "1. Finite State Machines (FSMs)",
+    "text": "1. Finite State Machines (FSMs)\nFinite State Machines manage states. By managing these states a programmer can create convincing game AI that acts in believable ways."
+  },
+  {
+    "objectID": "index.html#behavior-trees",
+    "href": "index.html#behavior-trees",
+    "title": "AI Agents in games",
+    "section": "2. Behavior Trees",
+    "text": "2. Behavior Trees\nBehavior Trees use a tree based data structure to control the behavior of AI agents. Using different node types, the programmer can create extremely complex behavior. Before nueral nets, behavior trees were the best option available for complex behavior that need to meet specific design criteria."
+  },
+  {
+    "objectID": "index.html#goal-oriented-action-planning-goap",
+    "href": "index.html#goal-oriented-action-planning-goap",
+    "title": "AI Agents in games",
+    "section": "3. Goal Oriented Action Planning (GOAP)",
+    "text": "3. Goal Oriented Action Planning (GOAP)\nGOAP uses a series of dictionaries, looking at a world state to make the best decision available from the game world."
+  }
+]

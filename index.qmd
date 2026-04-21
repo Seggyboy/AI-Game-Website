@@ -1,0 +1,33 @@
+---
+title: "AI Agents in games"
+---
+
+
+Welcome to a website about AI in video games. This website details the data structures, physics, algorithms, and techniques associated with AI in various games through history.
+
+
+
+
+
+Understanding the basics of game AI is crucial to making good games.
+
+
+
+# Types of AI data structures:
+
+
+## 1. Finite State Machines (FSMs)
+Finite State Machines manage states. By managing these states a programmer can create convincing game AI that acts in believable ways.
+
+## 2. Behavior Trees
+Behavior Trees use a tree based data structure to control the behavior of AI agents. Using different node types, the programmer can create extremely
+complex behavior. Before nueral nets, behavior trees were the best option available for complex behavior that need to meet specific design criteria.
+
+## 3. Goal Oriented Action Planning (GOAP)
+GOAP uses a series of dictionaries, looking at a world state to make the best decision available from the game world. 
+
+
+# Why You Should Care
+
+in a world full of talk about the biggest and best LLM models, its important to remember that older techniques dominate in terms of processing power and design potential.
+While nueral nets are a black box, classic AI techniques allow for precision in developing AI for games. 
